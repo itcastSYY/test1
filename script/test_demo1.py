@@ -13,3 +13,7 @@ class TestDemo:
         print( "我是函数3" )
         assert 0
 
+    def test_fn4(self):
+        print( "我是函数4" )
+        assert 0
+
