@@ -7,4 +7,9 @@ class TestDemo:
 
     def test_fn2(self):
         print( "我是函数2" )
+        assert 1
+
+    def test_fn3(self):
+        print( "我是函数3" )
+        assert 0
 
